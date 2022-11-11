@@ -8,4 +8,4 @@
   { "id": "07", "is_active": false, "is_online": false, "business_unit": "MF - Omaha NE (1061)", "labor_category": "Manufacturing Operations", "labor_category_code": "IT", "action": "" },
   { "id": "08", "is_active": true, "is_online": true, "business_unit": "Snacks - Augusta GA (1062)", "labor_category": "Corporate Professional", "labor_category_code": "LIX", "action": "" },
   { "id": "09", "is_active": false, "is_online": false, "business_unit": "Snacks - Augusta GA - CoPac", "labor_category": "Administrative Clerical", "labor_category_code": "LIR", "action": "" }
-];
+]
