@@ -1,0 +1,11 @@
+employees = [
+  { "id": "01", is_active: true, is_online: true, "business_unit": "MF - Allyn WA (1068)", "labor_category": "Accounting Finance", "labor_category_code": "Admin", "action": "" },
+  { "id": "02", is_active: true, is_online: true, "business_unit": "MF - Grand Rapids MI (1063)", "labor_category": "Administrative Clerical", "labor_category_code": "CC",  "action": "" },
+  { "id": "03", is_active: false, is_online: false, "business_unit": "MF - Kimper KY (1064)", "labor_category": "Corporate Professional", "labor_category_code": "Cera", "action": "" },
+  { "id": "04", is_active: false, is_online: false, "business_unit": "MF - Lancaster PA (1066)", "labor_category": "Engineering", "labor_category_code": "Eng","action": "" },
+  { "id": "05", is_active: true, is_online: true, "business_unit": "MF - Memphis TN (1065)", "labor_category": "Industrial Trades", "labor_category_code": "FinPro", "action": "" },
+  { "id": "06", is_active: true, is_online: true, "business_unit": "MF - Muncy PA (1060)", "labor_category": "Information Technology", "labor_category_code": "L00081",  "action": "" },
+  { "id": "07", is_active: false, is_online: false, "business_unit": "MF - Omaha NE (1061)", "labor_category": "Manufacturing Operations", "labor_category_code": "IT", "action": "" },
+  { "id": "08", is_active: true, is_online: true, "business_unit": "Snacks - Augusta GA (1062)", "labor_category": "Corporate Professional", "labor_category_code": "LIX", "action": "" },
+  { "id": "09", is_active: false, is_online: false, "business_unit": "Snacks - Augusta GA - CoPac", "labor_category": "Administrative Clerical", "labor_category_code": "LIR", "action": "" }
+];
