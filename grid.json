@@ -1,0 +1,3 @@
+[
+{"ukey": "40ab673e-023a-463b-8838-0490edae1a42","active": true,"sectorName": "Honeywell","isPreScreeningRequired": true, "isAlternatePricingModel": true,"createdBy": 1,"createdOn": "2022-11-21T05:27:22.62", "lastModifiedBy": 0, "lastModifiedOn": "2022-11-21T05:27:22.62","sectorId": 2,"laborCategoryName": "Tester","laborCategoryCode": "TEST3","maxProfilesPerStaffing": 0,"mspStaffingSpecialistId": 1,"maxProfileTotal": 10,"payrollMarkUp": 4,"isExpressLaborCat": true,"candidateHiredby": "","isLiLaborCatgory": true,"isIcsowLaborCategory": true,"pricingModel": null,"markUpFlag": null,"otRateType": null,"costEstimationType": "P","billRateModel": "N"}
+]
