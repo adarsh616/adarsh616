@@ -1,7 +1,36 @@
-[{"text":"Accounting Finance","value":"1"},
-    {"text":"Administrative Clerical","value":"2"},
-    {"text":"Corporate Professional Other","value":"3"},
-    {"text":"Engineering","value":"4"},
-    {"text":"Industrial Trades","value":"5"},
-    {"text":"Information Technology","value":"6"},
-    {"text":"Manufacturing Operations","value":"7"}]
+[{
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Admin",
+    "value": "47127ec7-4fb8-4675-a06c-96cc08064a93"  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Job test",
+    "value": "3b092dc1-75e9-4394-b63a-122df0c409fa"  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "JobCatI1",
+    "value": "de8cc924-f477-48ef-898c-a6fd860e234f"  },
+{
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Developer",
+    "value": "47127ec7-4fb8-4675-a06c-96cc08064a94"  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Tester",
+    "value": "3b092dc1-75e9-4394-b63a-122df0c409fb"  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Plumber",
+    "value": "de8cc924-f477-48ef-898c-a6fd860e234g"  }]
